@@ -2,3 +2,7 @@ ini
 namanya
 belajar
 git
+katanya
+suruh
+lebih
+panjang
